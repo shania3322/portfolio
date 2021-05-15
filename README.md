@@ -18,3 +18,11 @@ Tools: processing\
 [Demo and Doc](https://drive.google.com/drive/folders/1UqjcbIEEzXeRk3arXhVuc-Vo2iQTGpol?usp=sharing) \
 Description: The project is based on Conway's Game of Life. Movement and shape
 deformation were added on the top of cells evolution pattern.
+
+## Internship at Andreas Greiner Studio
+Project Name: Jungle Memory\
+Date: 2019\
+Tools: Generative Neural Network (GAN), pytorch, tensor flow\
+[link](http://www.andreasgreiner.com/works/jungle-memory/) \
+Description: The project is part of an installation exhibition. The programming
+part is aiming to generate synthesized forest images with trained GAN.
