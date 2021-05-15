@@ -1,6 +1,6 @@
 # Portfolio
 
-## Projects completed at HBKsaar:
+## Projects completed at HBKsaar
 
 Project Name: Dancing Symbols\
 Date: 2017\
@@ -23,6 +23,6 @@ deformation were added on the top of cells evolution pattern.
 Project Name: Jungle Memory\
 Date: 2019\
 Tools: Generative Neural Network (GAN), pytorch, tensor flow\
-[link](http://www.andreasgreiner.com/works/jungle-memory/) \
+Link: [link](http://www.andreasgreiner.com/works/jungle-memory/) \
 Description: The project is part of an installation exhibition. The programming
 part is aiming to generate synthesized forest images with trained GAN.
