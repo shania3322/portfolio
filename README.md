@@ -27,6 +27,11 @@ Link: [link](http://www.andreasgreiner.com/works/jungle-memory/) \
 Description: The project is part of an installation exhibition. The programming
 part is aiming to generate synthesized forest images with trained GAN.
 
+## Master's thesis
+Exploring the Impact of Multiple Machine Translation Proposals in Post-editing, Master Thesis, 2022  
+Advisor: Dr. Nico Herbig  
+Reviewers: Prof. Dr. Antonio Krüger, Prof. Dr. Josef van Genabith  
+[Demo](https://www.youtube.com/watch?v=YOEzwDIwApM)  
 
 ## Finished exercise
 [mini raytracing](https://github.com/shania3322/raytracing_mini)  
