@@ -26,3 +26,15 @@ Tools: Generative Neural Network (GAN), pytorch, tensor flow\
 Link: [link](http://www.andreasgreiner.com/works/jungle-memory/) \
 Description: The project is part of an installation exhibition. The programming
 part is aiming to generate synthesized forest images with trained GAN.
+
+
+## Finished exercise
+[mini raytracing](https://github.com/shania3322/raytracing_mini)  
+[Build a MLP from scratch](https://github.com/shania3322/NNproject)  
+
+
+## Implemented algorithms, plots and animations
+[Markov Chain with 4 nodes](https://github.com/shania3322/PlotAndAnimation)  
+[Relevant Dimension Estimation](https://github.com/shania3322/RDE)  
+
+
