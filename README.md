@@ -41,5 +41,5 @@ Reviewers: Prof. Dr. Antonio Krüger, Prof. Dr. Josef van Genabith
 ## Implemented algorithms, plots and animations
 [Markov Chain with 4 nodes](https://github.com/shania3322/PlotAndAnimation)  
 [Relevant Dimension Estimation](https://github.com/shania3322/RDE)  
-
+[2nd level test for individual level information based neuron decoding metrics](https://github.com/shania3322/MVPAitest)
 
